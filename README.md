@@ -1,5 +1,5 @@
 # ucb_mids_W266_project
-This is the repository created by @caseyhahn (Casey Hahn) and @mikelu97 (Michael))
+This is the repository created by @caseyhahn (Casey Hahn) and @mikelu97 (Michael Lu)
 for their AI Song Lyric Generation project for the UC Berkeley School of Information's
 Natural Language Processing with Deep Learning (DATASCI 266) course for the Fall 2023
 semester.
