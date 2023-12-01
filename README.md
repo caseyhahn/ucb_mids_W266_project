@@ -6,8 +6,9 @@ semester.
 
 ```
 .
+    ├── data_prep        # Notebooks for creating train/validation/test datasets
     ├── fine_tuning      # Notebooks for fine tuning pre-trained models
-    ├── generation       # Notebooks for generating lyrics using NLP models
+    ├── generation       # Notebooks for generating lyrics using the NLP models
     ├── scoring          # Notebooks for calculating NLP evaluation metrics
     ├── output           # Output of lyric generation tasks from the different models
     └── scores           # Calculated NLP evaluation metrics
