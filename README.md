@@ -4,6 +4,7 @@ for their AI Song Lyric Generation project for the UC Berkeley School of Informa
 Natural Language Processing with Deep Learning (DATASCI 266) course for the Fall 2023
 semester.
 
+`W266 Final Project - AI Song Lyric Generation.pdf` is the final report for this project.
 ```
 .
     ├── data_prep        # Notebooks for creating train/validation/test datasets
